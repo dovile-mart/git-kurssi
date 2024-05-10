@@ -1,0 +1,4 @@
+Testimuutokset tekstitiedostoon vi-editorissa
+ja uusi rivi ESC:in jälkeen o:lla
+uusi pysyvä rivi-1
+uusi poistettava rivi-2
