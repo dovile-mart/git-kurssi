@@ -15,3 +15,7 @@ function setTime() {
 
   document.getElementById("datetime").innerHTML = datetime;
 }
+//funktio kutsutaan heti kun sivu latautuu
+setTime();
+//aika päivittyy joka sekunti
+setInterval(setTime, 1000);
